@@ -1,2 +1,3 @@
 # imgup
-My ImageUploader for OrangeMixs etc...
+My ImageUploader
+https://github.com/WarriorMama777/imgup
